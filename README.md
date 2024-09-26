@@ -16,8 +16,10 @@ Repo ini menjelaskan tentang projek solar panel yang digunakan untuk kebutuhan i
 # 3. Metodologi
 Proses dalam proyek ini dibagi menjadi dua bagian utama:
 - 3.1 Midflight Operation
-  Midflight operation mencakup guided navigation di atas urban farming solar installations dengan memanfaatkan image processing. Simulasi model telah dilakukan dalam ROS environment dan Gazebo simulation, menggunakan bahasa pemrograman Python. Untuk komunikasi, proyek ini menggunakan MavLink protocol pada Ardupilot firmware.
+
+Midflight operation mencakup guided navigation di atas urban farming solar installations dengan memanfaatkan image processing. Simulasi model telah dilakukan dalam ROS environment dan Gazebo simulation, menggunakan bahasa pemrograman Python. Untuk komunikasi, proyek ini menggunakan MavLink protocol pada Ardupilot firmware.
 - 3.2 Post Processing
+
 Selama penerbangan, drone akan mengambil thermal images sepanjang solar array. Image processing dan machine learning digunakan untuk segmentasi dan klasifikasi defect pada setiap panel. Data ini kemudian diintegrasikan dengan sistem manajemen urban farming yang lebih luas.
 
 # 4. Signifikansi Proyek
