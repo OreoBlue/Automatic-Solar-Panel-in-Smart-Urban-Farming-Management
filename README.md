@@ -30,5 +30,5 @@ Proses dalam proyek ini dibagi menjadi dua bagian utama:
 # 5. Kesimpulan
    Proyek "Automatic Detection of Defective Photovoltaic Modules in Smart Urban Farming Management" menawarkan pendekatan inovatif untuk meningkatkan efisiensi dan keberlanjutan dalam sistem pertanian perkotaan modern. Dengan menggabungkan teknologi drone, thermal imaging, dan artificial intelligence, proyek ini tidak hanya meningkatkan pemeliharaan infrastruktur energi surya, tetapi juga berkontribusi pada optimalisasi keseluruhan sistem Smart Urban Farming. Integrasi ini menunjukkan potensi besar dalam mendukung ketahanan pangan perkotaan dan praktik pertanian yang lebih berkelanjutan di masa depan.
 
-# 6. Referensi
+## Referensi
 https://github.com/titangil/Automatic-Detection-of-Defective-Photovoltaic-Modules-by-Aerial-Thermographic-Inspections
